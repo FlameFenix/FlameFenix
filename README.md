@@ -113,10 +113,12 @@
       Entity Framework Core
     </td>
     <td>
-       Soon
+       <a href="https://github.com/FlameFenix/Certificates-Softuni/blob/main/Entity%20Framework%20Core%20-%20October%202021%20-%20Certificate.jpeg?raw=true">
+         Link
+         </a>
     </td>
     <td>
-      <p align="center">❌<p>
+      <p align="center">✔<p>
     </td>
   </tr>
  
